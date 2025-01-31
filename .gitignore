@@ -1,6 +1,5 @@
 /images/
 /unused_python_files/
 /project_docs/
-
-
-gitignore
+__pycache__/
+.ipynb_checkpoints/
