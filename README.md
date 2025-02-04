@@ -53,13 +53,15 @@ customer_happiness/
 │   ├── __init__.py                 # Package initialization  
 │   ├── data_exploration.py         # Data cleaning and transformation  
 │   ├── feature_analysis.py         # Feature engineering and selection   
-│  
+│   ├── utils.py                    # utils 
+│
 ├── models/  
 │   └── best_extratrees_model.pkl   # Trained models  
 │  
 ├── requirements.txt                # Dependencies  
 ├── README.md                       # Project overview  
 └── .gitignore                      # Files to ignore  
+```
 
 ## Getting Started 
 
@@ -68,4 +70,4 @@ customer_happiness/
 
 ### Install dependencies 
 
-```bash pip install -r requirements.txt
+bash pip install -r requirements.txt
