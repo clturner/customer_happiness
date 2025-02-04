@@ -66,7 +66,7 @@ customer_happiness/
 ## Getting Started 
 
 ### Installation 
-1. Clone the repository: ```bash git clone https://github.com/<your-username>/customer-happiness.git cd customer-happiness
+1. Clone the repository: git clone https://github.com/<your-username>/customer-happiness.git cd customer-happiness
 
 ### Install dependencies 
 
